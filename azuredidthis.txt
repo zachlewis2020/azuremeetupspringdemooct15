@@ -1,5 +1,3 @@
-# azuremeetupspringdemooct15
-Demo App for Azure Meetup Oct 15 
  git clone https://github.com/zachlewis2020/azuremeetupspringdemooct15
 
 cd azuremeetupspringdemooct15
